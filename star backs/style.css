@@ -85,6 +85,9 @@ header ul li a:hover{
     letter-spacing: 1px;
     text-decoration: none;
 }
+.content .textBox a:hover{
+    backgroung: #0c915a;
+}
 .content .imgBox{
     width: 600px;
     display: flex;
